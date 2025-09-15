@@ -1,4 +1,10 @@
-# Distributed Systems Practice - Containerized
+# Distibuted Systems Task "LK 01: Lingkungan Praktik Mandiri + Ujicoba Messaging Protocols"
+- Nama : Syahrul Budi Rahmadan
+- NIM  : 256150100111013
+- Kelas: Sistem Distribusi - A
+
+
+## Distributed Systems Practice - Containerized
 
 This repository demonstrates multiple distributed system communication patterns. Each section now has an isolated Docker / Docker Compose setup so the host Python environment remains untouched.
 
